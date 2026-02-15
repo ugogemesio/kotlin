@@ -5,7 +5,7 @@ import java.awt.Color.BLUE
 import java.awt.Color.ORANGE
 import java.awt.Color.RED
 
-class FromJavaToKotlin {
+class AFromJavaToKotlin {
     //data generates equals, hashCode, toString
     data class Person(val name: String, val age: Int)
 
